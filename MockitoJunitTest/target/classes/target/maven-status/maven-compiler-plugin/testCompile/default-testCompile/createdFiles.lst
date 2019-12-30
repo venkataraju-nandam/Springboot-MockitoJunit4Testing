@@ -1,0 +1,4 @@
+com\ex\mockito\MockitoJunitTest\UserRepositoryIngrationTest.class
+com\ex\mockito\MockitoJunitTest\EmployeeRepositoryIntegrationTest.class
+com\ex\mockito\MockitoJunitTest\DatabaseTest.class
+com\ex\mockito\MockitoJunitTest\CityRepositoryIntegrationTest.class
